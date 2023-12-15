@@ -1,0 +1,6 @@
+../Core/Src/display_LED.c:11:6:ToggleRed	1
+../Core/Src/display_LED.c:15:6:ToggleOrange	1
+../Core/Src/display_LED.c:20:6:ToggleYellow	1
+../Core/Src/display_LED.c:24:6:ToggleGreen	1
+../Core/Src/display_LED.c:28:6:ToggleOne_shot	1
+../Core/Src/display_LED.c:32:6:ToggleWhenButtonPressed	2
